@@ -1,6 +1,6 @@
 object Main {
 
   def main(args: Array[String]): Unit = {
-    println("Hello 4")
+    println("Hello 6")
   }
 }
