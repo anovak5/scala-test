@@ -1,0 +1,7 @@
+.bsp/*
+.idea/*
+project/*
+!/project/plugins.sbt
+!/project/build.properties
+target/*
+lib/*
